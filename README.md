@@ -1,2 +1,2 @@
 # JavaBigBang
- Explosão de Java
+ Repositorio de sistemas e soluções criados em Java
